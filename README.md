@@ -4,11 +4,7 @@
 
 I am Trentiumz, a random human who is either male or female with no outlook on life :>
 
-Currently, I'm working on random projects, just short games to be happy for once in my life :blobsad:
-
-ok on a serious note tho I'm very much fine... my mental health is very much not suffering immensely... keyword on immensely
-
-### SO ANYWAYS I WANNA GIT GUD AT MATH BECAUSE APPARENTLY YOU NEED MATH TO DO COMPUTER SCIENCE AND APPARENTLY YOU NEED MATH TO ACTUALLY LEARN AI AND STUFF AND DO COOL STUFF :BLOBSAD: BUT IT'S SO HARD TO MATHHHHHHHHHHHHHHHH :ROOREEBUTCUTER:
+Currently, I'm working on random projects, just short games, programs or websites to satisfy my crippling boredom
 
 <!--
 **Trentiumz/Trentiumz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
