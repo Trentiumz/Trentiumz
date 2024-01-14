@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-# Le moi the disappointemente
+I'm Trentium, a recreational coder. 
 
-I am Trentiumz, a random human who is either male or female with no outlook on life :>
+Currently, I'm working on random projects, just short games, programs or websites to satisfy my boredom or working on my school website.
 
-Currently, I'm working on random projects, just short games, programs or websites to satisfy my crippling boredom
+See you around!
 
 <!--
 **Trentiumz/Trentiumz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
