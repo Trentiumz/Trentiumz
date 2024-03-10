@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Trentium, a recreational coder. 
+I'm Trentium, a coder. 
 
-Currently, I'm working on random projects, just short games, programs or websites to satisfy my boredom or working on my school website.
+Currently, I'm working on random projects, just short games, programs or websites to satisfy my boredom or working on my school website. I'm most interested in machine learning and web development, though I'm always down to try something new!
 
-See you around!
+See you around ✨
 
 <!--
 **Trentiumz/Trentiumz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
